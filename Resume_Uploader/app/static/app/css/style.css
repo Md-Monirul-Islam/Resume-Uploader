@@ -1,0 +1,12 @@
+#id_gender,#id_job_area{
+    list-style-type: none;
+    display: inline-flex;
+    
+}
+
+#id_gender{
+    padding-left: 15px;
+}
+#id_job_area{
+    padding-left: 10px;
+}
